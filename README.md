@@ -1,2 +1,21 @@
-# esp32-wireless-embedded-communicator
-Desenvolvimento de um sistema de comunicação embarcada utilizando dois ESP32, módulos NRF24L01, displays OLED e protocolo proprietário com confirmação de entrega (ACK).
+ESP32 Wireless Embedded Communicator
+
+Embedded communication system developed using ESP32, NRF24L01 and OLED displays.
+
+Features
+Bidirectional wireless communication
+ACK protocol
+OLED graphical interface
+Menu system
+Statistics screen
+Transmission confirmation
+Audible feedback
+Modular firmware
+
+Hardware
+
+ESP32 DevKit V1 ×2
+NRF24L01 ×2
+OLED SSD1306 0.96" ×2
+Push Button ×2
+Active Buzzer ×2
