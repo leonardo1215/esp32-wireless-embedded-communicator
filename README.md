@@ -5,7 +5,6 @@ ESP32 Wireless Embedded Communicator
 <img width="811" height="871" alt="WhatsApp Image 2026-07-08 at 22 58 48" src="https://github.com/user-attachments/assets/a5719944-0b50-4dce-9fbb-3a85fac9c4b5" />
 <img width="865" height="965" alt="WhatsApp Image 2026-07-08 at 22 58 48 (1)" src="https://github.com/user-attachments/assets/83739291-4e0b-4ce0-8929-8992319a5b89" />
 <img width="1200" height="1600" alt="WhatsApp Image 2026-07-08 at 22 58 51 (1)" src="https://github.com/user-attachments/assets/3e08251c-82d9-4b38-a02c-085173b6d4c1" />
-# ESP32 Wireless Embedded Communicator
 
 Sistema de comunicação embarcada desenvolvido utilizando **ESP32**, **NRF24L01** e **OLED SSD1306**, permitindo comunicação bidirecional entre dois dispositivos através de um protocolo proprietário com confirmação de entrega (ACK).
 
